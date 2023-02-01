@@ -35,3 +35,17 @@ To regenerate the index, run:
 ```sh
 python gen_index.py
 ```
+
+## For Skunkworks
+
+### mvp
+
+- basic web interface
+- UI toggle for human languages (Spanish, Portuguese, Japanese, Pirate)
+- type of content (code block, how to, conceptual overview)
+
+### stretch goals
+
+- multi-tier index (global search, and search by site)
+- continuous conversation
+- and more?

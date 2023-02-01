@@ -24,9 +24,3 @@ while should_continue:
   else:
     print('Exiting application. Byeeeee! :)')
     should_continue = False
-
-
-res = index.query('Explain the limitations of using Atlas Functions.')
-print(res)
-
-
