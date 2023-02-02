@@ -49,3 +49,9 @@ python gen_index.py
 - multi-tier index (global search, and search by site)
 - continuous conversation
 - and more?
+
+### infra
+
+- deploy python backend to Heroku or some other infra PaaS
+- deploy frontend to Netlify
+- set up [git lfs](https://git-lfs.com/) to track those big index files.
