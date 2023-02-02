@@ -9,7 +9,7 @@ index = GPTSimpleVectorIndex.load_from_disk('index.json')
 should_continue = True
 
 while should_continue:
-  query = input("Ask me anything about Atlas Functions:\n")
+  query = input("Ask me anything about Atlas App Services:\n")
   print('\nwait a bit. i\'m thinking really hard...')
   sys.stdout = open(os.devnull, "w") # suppress output to terminal
   res = index.query(query)
