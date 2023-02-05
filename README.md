@@ -41,8 +41,12 @@ python gen_index.py
 ### mvp
 
 - basic web interface
+  - consider using https://playground.arwes.dev/core/
 - UI toggle for human languages (Spanish, Portuguese, Japanese, Pirate)
 - type of content (code block, how to, conceptual overview)
+- create simple server to handle requests. flask?
+- demo
+- presentation
 
 ### stretch goals
 
